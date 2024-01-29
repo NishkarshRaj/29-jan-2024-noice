@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "nish-app"
+  description: "lorem ipsum"
+  annotations:
+    github.com/project-slug: NishkarshRaj/29-jan-2024-noice
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "group:default/apm___asm_saas_psf"
